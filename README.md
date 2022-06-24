@@ -8,5 +8,5 @@ Predicting sale price of houses with use of +50 explanatory variables describing
 - Ensemble methods
 
 ### Outcome
-- Predicted price with **xx%** accuracy
-- Best Root-Mean-Squared_Error (RMSE) of **xx** (Taking logs means that errors in predicting expensive houses and cheap houses will affect the result equally)
+- Best Root-Mean-Squared-Log-Error (RMSLE) of **0.1401** (Taking logs means that errors in predicting expensive houses and cheap houses will affect the result equally)
+- Competition rank 1912/4217 (Jun-22)
