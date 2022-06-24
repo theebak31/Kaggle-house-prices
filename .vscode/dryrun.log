@@ -1,0 +1,4 @@
+make: Entering directory `/Users/theebak/code/theebak31/Kaggle-house-prices'
+PYTHONDONTWRITEBYTECODE=1 pytest -v --color=yes
+make: Leaving directory `/Users/theebak/code/theebak31/Kaggle-house-prices'
+ 
